@@ -10,7 +10,7 @@ class Routes {
           builder: (context) => const WelcomeView(),
         );
       case RoutesName.home_view:
-      // return MaterialPageRoute(builder: (context) => (),);
+      // return MaterialPageRoute(builder: (context) => HomeView(),);
 
       default:
         {
